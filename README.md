@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Niranjanbhatta
+- 👀 I’m interested in learning new programming language
+- 🌱 I’m currently learning C & Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 mail = bhattaniranjan130@gmail.com
