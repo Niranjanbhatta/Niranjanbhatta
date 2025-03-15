@@ -4,8 +4,8 @@ Hello! I’m Niranjan Bhatta, a Computer Engineering student with a strong inter
 
 ## 🛠️ My Projects
 Here are some of the projects I'm currently working on:
-### 1. **AI Skill Extraction from CVs** 
-- A model designed to extract skills, experience, and projects from CVs or user-provided prompts, using cosine similarity and linear regression.
+### 1. **Extraction and Organization of Data from CVs** 
+The project extracts Name, Email, Phone-number skills, experience, and projects from CVs using OCR and NLP, categorizing the data into key sections. It then compares the CV data with user-provided prompts using cosine similarity and ranks the CVs based on combined similarity scores through linear regression.
 ### 2. **Movie Genre Classification**
 - A model that classifies movies into genres based on their descriptions.
 ### 3. **Credit Card Fraud Detection**
@@ -13,15 +13,15 @@ Here are some of the projects I'm currently working on:
 
 
 ## 🔍 Areas of Interest
-- **Artificial Intelligence**
-- **Natural Language Processing**
-- **Machine Learning**
-- **Backend Development**
+- Artificial Intelligence
+- Natural Language Processing
+- Machine Learning
+- Backend Development
 
 ## 🧑‍💻 Skills
 - **Programming Languages**: Python, C, C++
 - **AI/ML Frameworks\Library**: TensorFlow, Keras, PyTorch, Scikit-learn, SpaCy, Transformer
-- **Tools & Technologies**: Git, Docker, Jupyter Notebooks
+- **Tools & Technologies**: Git, Git-Hub, Jupyter Notebooks
 
 ## 🌱 Learning & Growing
 - Currently, I’m focused on deepening my knowledge in AI and exploring new algorithms and technologies.
