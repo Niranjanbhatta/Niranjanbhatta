@@ -29,8 +29,8 @@ Here are some of the projects I'm currently working on:
 
 ## Contact Information
 
-- Email: [Niranjan Bhatta](mailto:bhattaniranjan130@gmail.com)
-- LinkedIn: [Niranjan_Bhatta](https://www.linkedin.com/in/niranjanbhatta)
+- Email: [bhattaniranjan130@gmail.com](mailto:bhattaniranjan130@gmail.com)
+- LinkedIn: [niranjanbhatta](https://www.linkedin.com/in/niranjanbhatta)
 
 ---
 
