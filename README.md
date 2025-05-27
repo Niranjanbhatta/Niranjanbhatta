@@ -39,3 +39,15 @@ A model for detecting fraudulent credit card transactions.
 
 <br>
 
+<h2 align="center">🧑‍💻 Skills</h2>
+
+<p align="center">
+<ul>
+  <li><b>Programming Languages</b>: Python, C, C++</li>
+  <li><b>AI/ML Frameworks & Libraries</b>: TensorFlow, Keras, PyTorch, Scikit-learn, SpaCy, Transformers</li>
+  <li><b>Tools & Technologies</b>: Git, GitHub, Jupyter Notebooks</li>
+</ul>
+</p>
+
+<br>
+
