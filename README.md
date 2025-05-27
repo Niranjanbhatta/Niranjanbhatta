@@ -71,4 +71,6 @@ A model for detecting fraudulent credit card transactions.
 [![](https://visitcount.itsvg.in/api?id=Niranjanbhatta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----y GitHub profile! Feel free to explore my repositories, and I’d love to collaborate or discuss any ideas. 🚀
+---
+
+Feel free to explore my repositories, and I’d love to collaborate or discuss any ideas. 🚀
