@@ -13,3 +13,8 @@ Here are some of the projects I'm currently working on:
 </p>
 
 
+<h3>1. <b>Extraction and Organization of Data from CVs</b></h3>  
+<p align="justify">
+This project extracts name, email, phone number, skills, experience, and projects from CVs using OCR and NLP. It categorizes the data into key sections, compares the CV data with user-provided prompts using cosine similarity, and ranks the CVs based on combined similarity scores through linear regression.
+</p>
+
