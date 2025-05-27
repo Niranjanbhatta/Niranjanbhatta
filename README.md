@@ -51,12 +51,6 @@ A model for detecting fraudulent credit card transactions.
 
 <br>
 
-<h2 align="center">Contact Information</h2>
-
-- Email: [bhattaniranjan130@gmail.com](mailto:bhattaniranjan130@gmail.com)
-- LinkedIn: [niranjanbhatta](https://www.linkedin.com/in/niranjanbhatta)
-
-<br>
 
 <h2>📊 GitHub Stats:</h2>
 
@@ -71,6 +65,11 @@ A model for detecting fraudulent credit card transactions.
 [![](https://visitcount.itsvg.in/api?id=Niranjanbhatta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----
+<h2 align="center">Contact Information</h2>
+
+- Email: [bhattaniranjan130@gmail.com](mailto:bhattaniranjan130@gmail.com)
+- LinkedIn: [niranjanbhatta](https://www.linkedin.com/in/niranjanbhatta)
+
+<br>
 
 Feel free to explore my repositories, and I’d love to collaborate or discuss any ideas. 🚀
