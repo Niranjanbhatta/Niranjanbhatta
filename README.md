@@ -18,3 +18,8 @@ Here are some of the projects I'm currently working on:
 This project extracts name, email, phone number, skills, experience, and projects from CVs using OCR and NLP. It categorizes the data into key sections, compares the CV data with user-provided prompts using cosine similarity, and ranks the CVs based on combined similarity scores through linear regression.
 </p>
 
+<h3>2. <b>Movie Genre Classification</b></h3>  
+<p align="justify">
+A model that classifies movies into genres based on their descriptions.
+</p>
+
