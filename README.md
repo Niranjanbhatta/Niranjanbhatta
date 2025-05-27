@@ -51,3 +51,11 @@ A model for detecting fraudulent credit card transactions.
 
 <br>
 
+<h2 align="center">Contact Information</h2>
+
+- Email: [bhattaniranjan130@gmail.com](mailto:bhattaniranjan130@gmail.com)
+- LinkedIn: [niranjanbhatta](https://www.linkedin.com/in/niranjanbhatta)
+
+<br>
+
+profile! Feel free to explore my repositories, and I’d love to collaborate or discuss any ideas. 🚀
