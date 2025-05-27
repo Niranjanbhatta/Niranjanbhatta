@@ -23,3 +23,10 @@ This project extracts name, email, phone number, skills, experience, and project
 A model that classifies movies into genres based on their descriptions.
 </p>
 
+<h3>3. <b>Credit Card Fraud Detection</b></h3>  
+<p align="justify">
+A model for detecting fraudulent credit card transactions.
+</p>
+
+<br>
+
