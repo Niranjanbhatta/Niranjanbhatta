@@ -30,3 +30,12 @@ A model for detecting fraudulent credit card transactions.
 
 <br>
 
+<h2 align="center">🔍 Areas of Interest</h2>
+
+- Artificial Intelligence
+- Natural Language Processing
+- Machine Learning
+- Backend Development
+
+<br>
+
